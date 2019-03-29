@@ -406,3 +406,12 @@ a:focus, a:hover, a:active {
 .bg2{
   background-color: #f5c162
 }
+
+@keyframes fadein {
+  from {opacity: 0}
+  to {opacity: 1}
+}
+
+.fadein{
+  -webkit-animation: fadein 2s;
+}
