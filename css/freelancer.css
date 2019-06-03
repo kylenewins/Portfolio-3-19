@@ -415,3 +415,7 @@ a:focus, a:hover, a:active {
 .fadein{
   -webkit-animation: fadein 2s;
 }
+
+#lazyloops{
+  padding-left:35px
+}
